@@ -5,6 +5,5 @@
 # Поля файлу [franko.csv](franko.csv)
 - letter - літера термінів
 - term - термін
-- prov_text - текст приповідки
+- proverb - текст приповідки
 - description - опис, або пояснення приповідки
-- source - джерело приповідки
